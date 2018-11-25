@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.englishiseasy.Theory_irregular_verbs"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background1">
+
+    <com.example.englishiseasy.MyTextView
+        android:text="@string/form1_TheoryIrrVerbs"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_firstForm"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:text="@string/form2_TheoryIrrVerbs"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/tv_firstForm"
+        android:layout_toEndOf="@+id/tv_firstForm"
+        android:id="@+id/tv_secondForm"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:text="@string/form3_TheoryIrrVerbs"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/tv_secondForm"
+        android:layout_toEndOf="@+id/tv_secondForm"
+        android:id="@+id/tv_thirdForm"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:text="@string/translation"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_theoryTranslation"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <ListView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/listView_theory_iv"
+        android:layout_below="@+id/tv_firstForm" />
+
+</RelativeLayout>

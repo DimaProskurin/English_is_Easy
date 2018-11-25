@@ -1,0 +1,197 @@
+accommodation
+address
+air conditioner
+alarm clock
+apartment
+armchair
+at home
+attic
+balcony
+basement
+bath
+bathroom
+bed
+bedroom
+blanket
+blind
+block of flats
+bolt
+bookcase
+bowl
+broom
+brush
+bucket
+build
+building
+burglar aralm
+canteen
+carpet
+ceiling
+central heating
+chair
+chandelier
+chest of drawers
+chimney
+clean
+clean teeth
+close
+close the curtains
+cloth
+coal
+comfortable
+convenience
+corridor
+courtyard
+covering
+cupboard
+curtain
+dark
+desk
+dining room
+dirty
+dishwasher
+do the washing
+door
+door chain
+doorbell
+doormat
+drain pipe
+drawer
+dressing table
+dust
+dusty
+eaves
+electric bulb
+electric socket
+electrycity
+elevator
+entrance
+fan
+fence
+fireplace
+firewood
+flat
+floor
+floor
+floor lamp
+freezer
+fridge
+furniture
+garage
+garden
+gas
+gas stove
+gate
+get up
+glass
+go to bed
+go to sleep
+gutter
+hall
+hallway
+hang out
+heat
+heater
+heather
+heating
+home owner
+hostel
+hotel
+house
+inhabitant
+intercom
+iron
+key
+kitchen
+ladder
+lamp
+landing
+latch
+lawn
+lie down
+light
+lighting
+linoleum
+live
+living room
+lock
+loggia
+make the bed
+meter
+microwave oven
+mirror
+mud
+neighbour
+nursery
+open
+open the curtains
+outside
+oven
+padlock
+paint
+pantry
+parquet
+picture
+pillow
+pin
+pipe
+player
+plug
+porch
+radiator
+radio
+refrigerator
+roof
+room
+rubbish bin
+scissors
+shampoo
+shave
+sheet
+shelf
+shower
+shut
+shutter
+sink
+sit
+soap
+socket
+spacious
+stairs
+storeroom
+stove
+study
+switch
+table
+take a bath
+take a shower
+tap
+tape recorder
+telephone
+threshhold
+tidy
+toilet
+toilet paper
+towel
+turn off
+turn on
+TV
+upper pane for ventilation
+vacuum
+vacuum cleaner
+vase
+verandah
+video recorder
+wake up
+wall
+wall light
+wallpaper
+wardrobe
+wash
+washing machine
+water supply system
+window
+window sill
+windowsill
+wipe
+wire

@@ -1,0 +1,240 @@
+accelerator
+access road
+accident
+accumulator
+aerobus
+aeroplane
+air bag
+air transport
+airplane
+anchor
+aqualung
+arrival
+arrive
+as scheduled
+automobile
+autopark
+aviation
+barrier
+bay
+berth
+boat
+bocy
+body
+bonnet
+book
+boot
+brake
+breakdown
+buddy seat
+bulldozer
+bumper
+buoy
+bus
+bus terminal
+cab
+cable
+cabriolet
+cabstand
+canvas
+car
+carburettor
+cargo
+catafalque
+change
+chassis
+choke
+clutch
+coach
+combine harvester
+communication
+compartment
+components
+cowling
+crash
+crossroad
+crosswalk
+cyclist
+damage
+deck
+depart
+departure
+diesel fuel
+diesel locomotive
+dinghy
+dirt road
+distribution shaft
+drive
+driver
+driveshaft
+driving licence
+dump track
+dust-cart
+electric locomotive
+electrotrain
+engine
+exavator
+express train
+fare
+fare dodger
+ferry
+flyover
+front axle
+fuel tank
+garage
+gas tank
+gear
+gear box
+get off
+get on
+go
+hand car
+hand luggage
+hang-glider
+harbor
+hatch-back
+hauler
+headlights
+helicopter
+helmet
+highway
+hold
+hot air ballon
+hub
+icebreaker
+ignition
+iner tube
+insurance
+jeep
+jetty
+kar
+landrover
+lane
+leave
+left-luggage office
+limousine
+load
+loader
+local train
+locomotive
+lorry
+low gear
+luggage
+luggage compartment
+main
+marine
+mast
+master
+Metro
+minibus
+moorage
+moped
+motor
+motor bike
+motor transport
+motorbike
+motorcycle
+motorcyclist
+overboat
+overland transport
+overtake
+park
+parking
+parking place
+passenger
+passenger compartment
+passenger traffic
+pedal
+pedestrian
+penrol
+petrol station
+petrol tank
+petrol tanker
+piston
+platform
+push-cycle
+quater lights
+raft
+railroad
+railway
+railway station
+railway transport
+rank track
+rear axle
+rear wheel
+refuelling
+return ticket
+ring road
+river-boat station
+road
+road map
+road sights
+rostrum
+route
+routing
+rush hours
+sail off
+sailer
+schedule
+scull
+sea transport
+seafaring
+seat belt
+sedan
+semaphore
+ship
+shipping
+shock-absorber
+sidewallk
+skin-diver
+sluice
+spare wheel
+spark plug
+speedboat
+speedometer
+station
+steam locomotive
+steam-ship
+steamship
+steering wheel
+stern
+stop
+stowaway
+suburban train
+switch
+tanker
+taxi
+terminal
+ticket
+ticket inspector
+ticket office
+top gear
+tow
+track
+traffic jam
+traffic lights
+trailer
+train
+tram
+tram
+tramline
+transit
+transport
+transportation
+trolley bus
+trolleybus
+truck
+trunk
+tyre
+undeground
+undercarriage
+underground
+underground passage
+universal
+unload
+van
+vehicle
+water craft
+wheel
+windscreen
+windscreen wiper

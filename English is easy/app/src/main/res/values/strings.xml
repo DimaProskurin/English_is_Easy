@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">English is easy</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="right_answer">Правильный\n
+        ответ</string>
+    <string name="Mistakes_greeting"> Ошибки </string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="PresentSimple_using">Употребляется, когда действие происходит в настоящем времени, момент действия неопределен.
+	Действие происходит переодически, постоянно или имеет место быть как факт.</string>
+
+    <string name="PresentSimple_attended_words">\talways - всегда\n
+        usually - обычно\n
+        often - часто\n
+        seldom - редко\n
+        sometimes - иногда\n
+        every - каждый</string>
+
+    <string name="PresentSimple_formula">Инфинитив без частицы to.
+	Если подлежащее стоит в 3 лице единственном числе, то к глаголу
+	прибавляется суффикс "s" или "es". V(s/es)</string>
+
+    <string name="PastSimple_using">Употребляется, когда действие совершалось в прошлом постоянно, переодически, момент времени
+	был неопределен или действие имело место быть как факт в прошлом.</string>
+
+    <string name="PastSimple_attended_words">\talways - всегда\n
+        usually - обычно\n
+        often - часто\n
+        seldom - редко\n
+        sometimes - иногда\n
+        every - каждый\n
+        yesterday - вчера\n
+	    ago - назад\n
+	    long ago - давно\n
+	    last - прошлый</string>
+
+    <string name="PastSimple_formula">Глагол во 2 форме, если он неправильный, или к глаголу добавляется суффикс ed. V(2/ed)</string>
+
+    <string name="FutureSimple_using">Употребляется в будущем времение, когда действие будет совершаться постоянно, переодически,
+	момент действия будет неопределен или действие будет иметь место быть как факт в будущем.</string>
+
+    <string name="FutureSimple_attended_words">\talways - всегда\n
+        usually - обычно\n
+        often - часто\n
+        seldom - редко\n
+        sometimes - иногда\n
+        every - каждый\n
+        tomorrow - завтра\n
+	    soon - скоро\n
+	    in - через\n
+	    next - следующий</string>
+
+    <string name="FutureSimple_formula">will + инфинитив без частицы to. will + V</string>
+
+    <string name="PresentProgressive_using">Употребляется, когда действие совершается в определенный момент в настоящем, которое
+	определяется точным временем или сопутствующим действием или коротким промежутком времени
+	или просто подразумевается.</string>
+
+    <string name="PresentProgressive_attended_words">\tnow - сейчас\n
+	    at present - сейчас\n
+	    at the moment - сейчас</string>
+
+    <string name="PresentProgressive_formula">Глагол to be в настоящем времени + глагол с суффиксом "ing".\nam/is/are + V(ing)</string>
+
+    <string name="PastProgressive_using">Употребляется, когда действие совершалось в определенный момент в прошлом, которое
+	определяется точным временем или сопутствующим действием или коротким промежутком времени
+	или просто подразумевается.</string>
+
+    <string name="PastProgressive_attended_words">\tat that moment - в этот момент\n
+	    at that time - в это время\n
+	    at + точное время</string>
+
+    <string name="PastProgressive_formula">Глагол to be в прошедшем времени + глагол с суффиксом "ing".\nwas/were + V(ing)</string>
+
+    <string name="FutureProgressive_using">Употребляется, когда действие будет совершаться в определенный момент в будущем, которое
+	определяется точным временем или сопутствующим действием или коротким промежутком времени
+	или просто подразумевается.</string>
+
+    <string name="FutureProgressive_attended_words">\tat that moment - в этот момент\n
+	    at that time - в это время\n
+	    at + точное время</string>
+
+    <string name="FutureProgressive_formula">Глагол to be в будущем времени + глагол с суффиксом "ing".\nwill be + V(ing)</string>
+
+    <string name="PresentPerfect_using">Употребляется, когда действие совершилось в прошлом, но имеет связь в настоящем. Эта связь может быть
+	выражена "результатом на лицо", сопутствующими словами, незаконченным промежутком времени.</string>
+
+    <string name="PresentPerfect_attended_words">\tjust - только что\n
+	    already - уже\n
+	    recently - недавно\n
+	    yet - еще/уже\n
+	    never - никогда\n
+	    ever - когда-либо\n
+	    this - этот</string>
+
+    <string name="PresentPerfect_formula">Глагол to have в настоящем времени + глагол в 3 форме, если неправильный, или к глаголу
+	добавляется суффикс "ed". have/has + V(3/ed)</string>
+
+    <string name="PastPerfect_using">Употребляется, когда действие совршилось к определенному моменту в прошлом.</string>
+
+    <string name="PastPerfect_attended_words">\tby - к\n
+	    before - до\n
+	    after - после</string>
+
+    <string name="PastPerfect_formula">Глагол to have в прошлом времени + глагол в 3 форме, если неправильный, или к глаголу
+    добавляется суффикс "ed", если глагол правильный.\nhad + V(3/ed)</string>
+
+    <string name="FuturePerfect_using">Употребляется, когда действие совршилось к определенному моменту в будущем.</string>
+
+    <string name="FuturePerfect_attended_words">\tby - к\n
+	    before - до\n
+	    after - после</string>
+
+    <string name="FuturePerfect_formula">Глагол to have в будущем времени + глагол в 3 форме, если неправильный, или к глаголу
+	добавляется суффикс "ed", если глагол правильный.\nwill have + V(3/ed)</string>
+
+    <string name="PresentPerfectProgressive_using">Употребляется, когда действие начало происходить до определенного момента, длилось до
+	этого самого момента и в этот возможно все еще происходит.</string>
+
+    <string name="PresentPerfectProgressive_attended_words">\tfor - в течение\n
+	    for a long time - давно\n
+	    for ages - вечность\n
+	    since - с тех пор как\n
+	    still - все еще</string>
+
+    <string name="PresentPerfectProgressive_formula">Глагол to have в настоящем времени + been + глагол с суффиксом "ing".\nhave/has + been + V(ing)</string>
+
+    <string name="PastPerfectProgressive_using">Употребляется, когда действие начало происходить до определенного момента, длилось до
+	этого самого момента и в этот возможно все еще происходит.</string>
+
+    <string name="PastPerfectProgressive_attended_words">\tfor - в течение\n
+	    for a long time - давно\n
+	    for ages - вечность\n
+	    since - с тех пор как\n
+	    still - все еще</string>
+
+    <string name="PastPerfectProgressive_formula">Глагол to have в прошедшем времени + been + глагол с суффиксом "ing".\nhad + been + V(ing)</string>
+
+    <string name="FuturePerfectProgressive_using">Употребляется, когда действие начало происходить до определенного момента, длилось до
+	этого самого момента и в этот возможно все еще происходит.</string>
+
+    <string name="FuturePerfectProgressive_attended_words">\tfor - в течение\n
+	    for a long time - давно\n
+	    for ages - вечность\n
+	    since - с тех пор как\n
+	    still - все еще</string>
+
+    <string name="FuturePerfectProgressive_formula">Глагол to have в будущем времени + been + глагол с суффиксом "ing".\nwill have + been + V(ing)</string>
+    <string name="greeting_inChooseDifficulty">Тема</string>
+    <string name="low_inChooseDifficulty">Низкая сложность</string>
+    <string name="mid_inChooseDifficulty">Средняя сложность</string>
+    <string name="high_inChooseDifficulty">Высокая сложность</string>
+    <string name="greeting_inChooseGroup">Выберите группу:</string>
+    <string name="simple_inChooseGroup">Simple</string>
+    <string name="progressive_inChooseGroup">Progressive</string>
+    <string name="perfect_inChooseGroup">Perfect</string>
+    <string name="perfect_progressive_inChooseGroup">Perfect Progressive</string>
+    <string name="all_inChooseGroup">Все</string>
+    <string name="greeting_inChooseTime">Выберите время:</string>
+    <string name="past_inChooseTime">Past</string>
+    <string name="present_inChooseTime">Present</string>
+    <string name="future_inChooseTime">Future</string>
+    <string name="all_inChooseTime">Все</string>
+    <string name="author_inHelp">Автор приложения</string>
+    <string name="authorName_inHelp">Дмитрий Проскурин</string>
+    <string name="contacts_inHelp">Контакты:</string>
+    <string name="mail_inHelp">Почта: dimapr117@gmail.com</string>
+    <string name="skype_inHelp">Skype: dima888255</string>
+    <string name="appName_inMainActivity">English is easy!</string>
+    <string name="startGame_inMainActivity">Начать игру</string>
+    <string name="leaderboard_inMainActivity">Таблица лидеров</string>
+    <string name="theory_inMainActivity">Теория</string>
+    <string name="help_inMainActivity">Помощь</string>
+    <string name="word_inMistakes">Слово</string>
+    <string name="yours_inMistakes">Ваш ответ</string>
+    <string name="next_inMistakes">Далее</string>
+    <string name="greeting_inPracticalWork">Выберите тему</string>
+    <string name="flowers_inPracticalWork">Цвета</string>
+    <string name="family_inPracticalWork">Семья</string>
+    <string name="verbs_inPracticalWork">Глаголы</string>
+    <string name="irregularVerbs_inPracticalWork">Неправильные глаголы</string>
+    <string name="tenses_inPracticalWork">Времена</string>
+    <string name="automobile_inPracticalWork">Автомобиль</string>
+    <string name="airport_inPracticalWork">Аэропорт</string>
+    <string name="appereance_inPracticalWork">Внешность</string>
+    <string name="city_inPracticalWork">Город</string>
+    <string name="wh_inPracticalWork">Вопросительные местоимения</string>
+    <string name="inn_inPracticalWork">Гостиница</string>
+    <string name="day_inPracticalWork">День</string>
+    <string name="house_inPracticalWork">Дом</string>
+    <string name="animals_inPracticalWork">Животные</string>
+    <string name="health_inPracticalWork">Здоровье</string>
+    <string name="zodiac_inPracticalWork">Знаки зодиака</string>
+    <string name="property_inPracticalWork">Имущество</string>
+    <string name="career_inPracticalWork">Карьера</string>
+    <string name="cinema_inPracticalWork">Кино</string>
+    <string name="computer_inPracticalWork">Компьютер</string>
+    <string name="cookery_inPracticalWork">Кулинария</string>
+    <string name="cooking_inPracticalWork">Готовка</string>
+    <string name="kindsofshops_inPracticalWork">Виды магазинов</string>
+    <string name="furniture_inPracticalWork">Мебель</string>
+    <string name="music_inPracticalWork">Музыка</string>
+    <string name="clothes_inPracticalWork">Одежда</string>
+    <string name="professions_inPracticalWork">Профессии</string>
+    <string name="trip_inPracticalWork">Путешествие</string>
+    <string name="sport_inPracticalWork">Спорт</string>
+    <string name="transport_inPracticalWork">Транспорт</string>
+    <string name="character_inPracticalWork">Характер</string>
+    <string name="everything_inPracticalWork">Все</string>
+    <string name="word">Слово</string>
+    <string name="translation">Перевод</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="points">Очки:</string>
+    <string name="time">Время:</string>
+    <string name="ok">ОК</string>
+    <string name="form1_irregularVerbs">1 форма</string>
+    <string name="form2_irregularVerbs">2 форма</string>
+    <string name="form3_irregularVerbs">3 форма</string>
+    <string name="name_Score">Имя</string>
+    <string name="points_Score">Очки</string>
+    <string name="writeName">Введите имя:</string>
+    <string name="clear_Score">Очистить список</string>
+    <string name="arrow"><![CDATA[<-]]></string>
+    <string name="form1_TheoryIrrVerbs">Первая\nформа</string>
+    <string name="form2_TheoryIrrVerbs">Вторая\nформа</string>
+    <string name="form3_TheoryIrrVerbs">Третья\nформа</string>
+    <string name="using_TheoryTenses">Употребление:</string>
+    <string name="attendedWords_TheoryTenses">Сопутствующие слова:</string>
+    <string name="formula_TheoryTenses">Формула образования:</string>
+    <string name="space" />
+</resources>

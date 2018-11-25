@@ -1,0 +1,115 @@
+accountant
+actor
+air steward
+architect
+artist
+assistant
+astronomer
+author
+baker
+bar person
+biologist
+bricklayer
+builder
+bus driver
+businessman
+butcher
+caretaker
+carpenter
+chef
+chemist
+civil servant
+cleaner
+clerk
+company director
+computer operator
+confectioner
+cook
+dentist
+designer
+doctor
+driver bus
+driver taxi
+dustman
+economist
+editor
+electrician
+engineer
+factory worker
+farmer
+film director
+fireman
+fisherman
+fishmonger
+flight attendant
+florist
+garbageman
+gardener
+geologist
+hairdresser
+head teacher
+historian
+jeweler
+journalist
+judge
+lawyer
+lawyer
+lecturer
+librarian
+lifeguard
+locksmith
+manager
+manufacturer
+mathematician
+mechanic
+mechanician
+messenger
+miner
+model
+musician
+newsreader
+nurse
+optician
+painter
+personal assistant
+pharmacist
+philologist
+photographer
+physicist
+pilot
+plumber
+poet
+police officer
+policeman 
+politician
+porter
+postman
+priest
+printer
+professor
+programmer
+public prosecutor
+receptionist
+sailor
+salesman
+salesperson
+schoolmaster
+scientist
+secretary
+shoemaker
+shop assistant
+soldier
+surgeon
+tailor
+taxi driver
+teacher
+telephone operator
+train driver
+translator
+travel agent
+turner
+vet
+waiter
+warder
+weaver
+window cleaner

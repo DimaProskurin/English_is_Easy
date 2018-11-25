@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <com.example.englishiseasy.MyTextView
+        android:id="@+id/firstForm_adapter"
+        android:layout_height="wrap_content"
+        android:layout_width="70dp"
+        android:textSize="12sp"
+        android:textColor="#000"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:id="@+id/secondForm_adapter"
+        android:layout_height="wrap_content"
+        android:layout_width="80dp"
+        android:textSize="12sp"
+        android:textColor="#000"
+        android:layout_toEndOf="@+id/firstForm_adapter"
+        android:layout_toRightOf="@+id/firstForm_adapter"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:id="@+id/thirdForm_adapter"
+        android:layout_height="wrap_content"
+        android:layout_width="175dp"
+        android:textSize="12sp"
+        android:textColor="#000"
+        android:layout_toEndOf="@+id/secondForm_adapter"
+        android:layout_toRightOf="@id/secondForm_adapter"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:id="@+id/translation_adapter"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="12sp"
+        android:textColor="#000"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+</RelativeLayout>

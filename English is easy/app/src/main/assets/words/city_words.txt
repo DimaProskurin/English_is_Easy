@@ -1,0 +1,169 @@
+Academy
+arch
+avenue
+bakery
+bank
+bar
+bargain
+bench
+bookshop
+bridge
+building
+bumpy road
+butcher's
+buy
+by-street
+cafe
+capital
+car park
+cash machine
+cathedral
+Cathedral
+Cemetery
+change
+Chapel
+cheap
+checkout
+chemistry
+cheque
+chequebook
+choose
+church
+Church
+cinema
+Cinema
+circus
+Circus
+city
+coin
+Convent
+corner
+cost
+counter
+country
+country-side
+credit card
+cross the street
+crossing
+crossroads
+customer
+dead end
+department store
+discount
+district region
+driver
+Educational institution
+Enterprise
+entrance
+environs
+escalator
+Exhibition
+exit
+expensive
+Factory
+Fair
+find
+fire station
+fish shop
+fitting room
+floor
+flower-bed
+Fortress
+fountain
+gallery
+Gallery
+gates
+get lost
+get tired
+gift
+go by bus
+go for a walk
+go on foot
+go shopping
+grocery
+hairdresser's
+high-quality
+hospital
+impressive
+Institute
+jewellery shop
+Kindergarten
+lane
+Law courts
+library
+Library
+lift
+look for
+lost property office
+market
+money
+monument
+Monument
+mosque
+museum
+Museum
+narrow
+new
+nightclub
+obey traffic rules
+Office
+on the first floor
+on the ground floor
+outskirts
+park
+pavement
+pay
+pay cash
+pedestrain
+pedestrian
+Plant
+post office
+postbox
+price
+queue up
+receipt
+receive
+restaurant
+road
+road sign
+roadway
+sale
+School
+second-hand
+sell
+send a letter
+shoe shop
+shop
+Shop
+shopping centre
+square
+stadium
+stall
+state
+statue
+street
+street map
+supermarket
+surburb
+swimming pool
+synagogue
+take a bus
+taxi-rank
+theatre
+Theatre
+to cross
+to the left
+to the right
+Tomb
+town
+toyshop
+traffic
+traffic jam
+traffic lights
+try on
+underpass
+University
+village
+wide
+window
+zebra crossing

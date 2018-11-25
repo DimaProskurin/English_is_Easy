@@ -1,0 +1,86 @@
+absorber
+accelerator
+accumulator
+air conditioner
+armrest
+back door
+backlight
+battery
+bonnet
+boot
+brake
+brake fluid
+brake light
+bulbs
+bumper
+cab
+car
+car alarm
+carburettor
+chassis
+clutch
+crankshaft
+cylinder
+dashboard
+diesel
+door
+door handle
+engine
+exhaust
+fan belt
+fender
+fog lights
+fog-light
+front door
+front wheel
+fuel gauge
+garage
+gear
+gear box
+handbrake
+hatchback
+headlight
+headlights
+headrest
+highway
+hood
+horn
+hubcap
+ignition
+indicator
+jack
+license plate
+lorry
+number plate
+oil
+oil pump
+parking light
+pedal
+petrol
+pump
+radiator
+rear-view mirror
+reversing
+road
+screwdriver
+seatbelt
+sedan
+side mirror
+side window
+signal
+spare parts
+spark plug
+speedometer
+spring
+starter
+steering wheel
+stop light
+suspension
+tail-light
+tank
+tool
+trailer
+transmission
+trunk
+van
+wheel

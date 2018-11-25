@@ -1,0 +1,428 @@
+agar
+almonds
+anchovy
+appetizer
+apple
+apple sauce
+apricot
+artichoke
+aspic
+aspic stock
+assortment
+aubergine
+bacon
+bacon and eggs
+bake
+baking powder
+banana
+bar
+be hungry
+be thirsty
+beans
+beat
+beat up
+beef
+beef roll 
+beef Stroganoff
+beer
+beetroot
+bergamot mint
+beverage
+bill
+biscuit
+bitter
+blackberries
+blackcurrants
+bland
+boil
+boil down
+boil thoroughly
+boiled
+boiled sausage
+boned gammon
+bouchee
+bouillon
+bowl
+bread
+bread crumbs
+breading
+breakfast
+brewing
+broccoli
+Brussels sprouts
+bun
+butter
+buttercream
+cabbage
+cake
+cake
+candy
+caramel
+caramelize
+carrots
+cauliflower
+caviar
+caviare sandwich
+celery
+champignon
+cheese
+cheese ball
+cheese sandwich
+cherry
+cherry tomatoes
+chestnut
+chicken
+chicken broth
+chicken Kiev
+Chinese cabbage
+chive
+chocolate
+chop
+chop
+choux pastry
+cider
+cinnamon
+citric acid
+clean chicken
+clear
+coat
+cocoa powder
+coffee
+cognac
+cold snack
+collation
+condensed milk
+consomme sauce
+cook
+cookies
+corn flakes
+corn mint
+corned-beef
+cornmeal
+crabmeat
+cranberries
+cream
+creamy
+crepine
+crisp
+crumb
+crumble up 
+crunchy
+crush
+cucumber
+cumin
+cup
+curd cheese
+curds
+currants
+curry
+daikon
+decor
+dessert
+dessert wine
+dice
+dish
+dissolve
+dorado
+dough
+dress
+dried
+dried apricots
+drink
+eat
+egg
+egg sandwich
+elder
+empanada
+essence
+fennel
+fig
+fillet
+filleted fish
+filo pastry
+fish
+fish cakes
+fish meal
+flour
+food
+for a starter
+fork
+form
+French beans
+fresh
+fried eggs
+frozen
+fruit
+fry
+frying fat
+frying pan
+garlic
+garnish
+gazpacho
+gelatin
+ginger
+glass
+granulated sugar
+grapefruit
+grapes
+green pea
+greenery
+grind
+ground
+ground almonds
+grouper
+ham
+ham and eggs
+hard cheese
+hard-boiled eggs
+haricot beans
+have breakfast
+have dinner
+have lunch
+hazelnut
+heads of cabbage
+herring
+honey
+honey agaric
+hot
+hot appetizer
+ice cream
+infusion
+jam
+jar
+jellied
+jelly
+juice
+julienne
+kiwi
+knife
+laminaria
+leek
+lemon
+lemonade
+lentil
+light snack
+liqueur
+litchi
+liter
+liver
+loaf
+lobster
+long loaf
+lump
+lunch
+maize
+mascarpone
+mashed potatoes
+meal
+meat
+meat dumplings
+meat rissole
+meatballs
+melange
+melon
+melt
+melted butter
+menu
+mild
+milk
+mint
+mix
+mousse
+mozzarella
+mug
+mushroom
+mussels
+mustard
+mutton
+nori
+nut
+off
+olive
+olive oil
+omelet
+onion
+onions
+orange
+order
+overcooked
+oyster
+pan
+pancake
+paprika
+parfait
+Parma ham
+parsley
+pass
+paste
+paste
+pastillage
+pastry
+pea
+peach
+pear
+peel
+pepper
+peppermint
+pesto
+pickle
+pie
+piece
+pike
+pikeperch
+pine nut
+pineapple
+pint
+plaice
+plate
+plum
+pork
+portion
+potato cake
+potato flour
+potatoes
+pounded
+pour
+pour in
+powdered sugar
+pudding
+puree
+quenelle
+radicchio
+raisins
+raspberries
+raw
+rice
+rice flour
+rice-paper
+rind
+ripe
+rissole
+roast beef
+rocambole
+roll
+roll
+root
+rosemary
+rotten
+rucola
+rye
+rye-bread
+Sacher
+saffron
+salad
+salmon
+salt
+salty
+sandwich
+sardines
+sauce
+saucer
+sauerkraut
+sausage
+savory
+scald
+scalded cream
+scale
+scrambled eggs
+scrub dishes
+seasoning
+sell-by date
+semicircle
+serving
+sesame
+set
+shallot
+shell
+shiitake
+short
+shortbread
+shrimp
+sickly
+simmer
+skewer
+slice
+smear
+smell
+smoked sausage
+soak
+soft caviar
+soft-boiled eggs
+sorbet
+souffle
+soup
+sour
+sour cream
+soy sauce
+soya
+spearmint
+spices
+spicy
+spinach
+sponge
+spoon
+spoonful
+spring onions
+starch
+steak
+steam thoroughly
+sterlet
+stir
+stodgy
+strawberries
+strew
+strong
+stuffing
+sturgeon
+sugar
+summer sausage
+supper
+sweet
+sweet
+sweet basil
+sweet pepper
+syrup
+table for two
+tartlet
+taste
+tasteless
+tasty
+tea
+tempura flour
+thyme
+tomato
+tomatoes confit
+tongue
+tough
+trout
+tuile
+tuille pastry
+undercooked
+undercut
+unleavened dough
+unripe
+until done
+vanilla powder
+vanilla stick
+veal
+vegetable marrow
+vegetable oil
+vegetables
+vinegar
+walnut
+wash properly
+wash up
+watermelon
+weak
+wheat
+wheat flour
+white bread
+white cabbage
+white chocolate
+white mushroom
+wild leek
+wine
+wurst
+yoghurt
+yolk
+zander

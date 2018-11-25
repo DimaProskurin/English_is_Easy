@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.englishiseasy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_FORMAT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/tmp_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Theory_choosing"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Help"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Score"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_irregular_verbs1lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_irregular_verbs2lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_irregular_verbs3lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_tenses3lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ChooseDifficulty"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work1lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work2lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work3lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_score"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Theory"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Score_choosing"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mistakes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Theory_irregular_verbs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ChooseGroup"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ChooseTime"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_tenses2lvl"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Practical_work_tenses1lvl"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Theory_tenses"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

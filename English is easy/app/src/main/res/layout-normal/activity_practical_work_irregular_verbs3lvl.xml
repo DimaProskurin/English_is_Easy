@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Practical_work_irregular_verbs3lvl"
+    android:background="@drawable/background1">
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/points"
+        android:textColor="#000"
+        android:id="@+id/points_tv"
+        android:textSize="20sp"
+        android:layout_toLeftOf="@+id/points"
+        android:layout_toStartOf="@+id/points"
+        android:layout_marginRight="5dp"
+        android:layout_marginEnd="5dp"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/points"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/time"
+        android:textColor="#000"
+        android:id="@+id/time_tv"
+        android:textSize="20sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/time"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:layout_toRightOf="@+id/time_tv"
+        android:layout_toEndOf="@+id/time_tv"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <ImageView
+        android:layout_width="125dp"
+        android:layout_height="75dp"
+        android:src="@drawable/green"
+        android:id="@+id/imageView_RightAnswear"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:layout_width="125dp"
+        android:layout_height="75dp"
+        android:src="@drawable/red"
+        android:id="@+id/imageView_WrongAnswear"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible" />
+
+    <EditText
+        android:layout_width="125dp"
+        android:layout_height="100dp"
+        android:id="@+id/editText_base"
+        android:hint="@string/form1_irregularVerbs"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="@drawable/tv_frame2"
+        android:layout_marginTop="85dp"
+        android:layout_below="@+id/imageView_RightAnswear"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="125dp"
+        android:layout_height="100dp"
+        android:id="@+id/editText_pastsimp"
+        android:hint="@string/form2_irregularVerbs"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="@drawable/tv_frame2"
+        android:layout_alignTop="@+id/editText_base"
+        android:layout_alignLeft="@+id/imageView_RightAnswear"
+        android:layout_alignStart="@+id/imageView_RightAnswear" />
+
+    <EditText
+        android:layout_width="125dp"
+        android:layout_height="100dp"
+        android:id="@+id/editText_pastpart"
+        android:hint="@string/form3_irregularVerbs"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="@drawable/tv_frame2"
+        android:layout_alignTop="@+id/editText_pastsimp"
+        android:layout_alignRight="@+id/points"
+        android:layout_alignEnd="@+id/points" />
+
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:text="@string/ok"
+        android:id="@+id/tv_go"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:layout_above="@+id/editText_pastpart"
+        android:layout_marginBottom="-5dp"
+        android:layout_toRightOf="@+id/editText_pastsimp"
+        android:layout_toEndOf="@+id/editText_pastsimp"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "@string/word"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="35sp"
+        android:id="@+id/tv_word"
+        android:layout_below="@+id/imageView_RightAnswear"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+</RelativeLayout>

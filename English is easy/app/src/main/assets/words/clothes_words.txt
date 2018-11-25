@@ -1,0 +1,166 @@
+bag
+barefoot
+bathrobe
+beads
+belt
+beret
+black
+blazer
+blouse
+blue
+boot
+bow-tie
+bra
+bracelet
+briefcase
+brown
+button
+buttonhole
+cap
+chain
+change
+clasp
+clean
+clothes
+coat
+collar
+colour
+cotton
+cuff links
+cuffs
+dress
+dress	
+dry
+dye
+earring
+earrings
+elegant
+fabric
+fashion
+fashionable
+fasten
+fastener
+fit
+footwear
+fur
+fur coat
+get dressed
+get undressed
+glasses
+glove
+gloves
+gold
+green
+grey
+handkerchief
+hat
+headscarf
+iron
+jacket
+jeans
+jewellery
+jumper
+knee socks
+knitting needle
+lace
+leather
+leather jacket
+linen
+lingerie
+lining
+lipstick
+long
+loose
+mend
+mittens
+naked
+naled
+necklace
+needle
+nightdress
+nightshirt
+nylon
+orange
+panties
+pendant
+perfume
+pin
+pink
+pocket
+pullover
+purple
+purse
+put on
+pyjamas
+raincoat
+red
+ribbon
+ring
+rough
+sandal
+satin
+scarf
+sew
+sewing machine
+shawl
+sheepskin coat
+shirt
+shoe
+short
+shorts
+silk
+silver
+size
+skirt
+sleeve
+smart
+smoking jacket
+sock
+socks
+soft
+stain
+stocking
+stockings
+strap
+suit
+summer dress
+sunglasses
+sweater
+swimming costume
+swimming suit
+swimming trunks
+T-shirt
+t-shirt
+tail coat
+take off
+tank top
+tear
+thread
+tie
+tie
+tight
+tights
+too big
+too small
+trainers
+trousers
+umbrella
+unbutton
+underpants
+underwear
+undress
+unfasten
+untie
+veil
+velvet
+vest
+violet
+waistcoat
+wallet
+wash
+wear
+wear out
+well-dressed
+white
+wool
+yellow

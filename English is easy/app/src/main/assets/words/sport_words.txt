@@ -1,0 +1,184 @@
+aerobics
+athlete
+aquatics
+arrow
+athlete
+back
+badminton
+barrel
+baseball
+basket
+basketball
+basketball player
+beach volleyball
+biathlon
+billiards
+bow
+bowling
+boxer
+boxing
+boxing ring
+breast-stroke
+butterfly-stroke
+canoeing
+car racing
+champion
+championship
+chess
+chess player
+climbing
+club
+coach
+competition
+competitor
+court
+crawl
+crew
+cricket
+cue
+cup
+curling
+cycling
+darts
+defeat
+discus thrower
+diving
+downhill skiing
+draughts
+draw
+exercise
+exercises
+fan
+fencing
+field
+figure skating
+final
+finish
+fishing
+fist ball
+foil
+football
+footballer
+forward
+fugure skater
+game
+get defeated
+gliding
+goal
+goalkeeper
+golf
+groung
+gym
+gymnasium
+gymnast
+gymnastic
+gymnastics
+handball
+hang gliding
+high jump
+hockey
+hockey player
+hockey stick
+hurdle race
+ice rink
+instructor
+javelin
+jogging
+judge
+judo
+karate
+long jump
+lose
+martial arts
+match
+motorbike sports
+mountaineering
+national team
+net
+parachuting
+pass
+physical education
+place
+player
+point
+pole-vaulting
+polo
+puck
+quarterfinal
+race
+racetrack
+racing draver
+racket
+referee
+referee
+riding
+ring
+rival
+round
+rower
+rowing
+rugby
+run
+runner
+running race
+sailing
+score
+score a goal
+semifinal
+shoot
+shooter
+shooting
+shooting gallery
+shot a goal
+shuttlecock
+skating ring
+ski jump
+ski poles
+ski track
+skier
+skiing
+skis
+snooker
+speed skater
+sport
+sports ground
+sportsman
+springboard
+stadium
+start
+stick
+swim
+swimmer
+swimming pool
+swords
+syadium
+team
+tennis court
+tennis player
+tennis racket
+throw
+thrower
+tobogganing
+top player
+tournament
+track
+track-and-field
+tracksuit
+train
+training
+triathlon
+triple jump
+victory
+volleyball
+volleyball player
+water polo
+waterski
+weight
+weight lifting
+weightlifter
+win
+winner
+wrestler
+wrestling
+yacht
+yacht club
