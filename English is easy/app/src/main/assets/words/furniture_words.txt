@@ -1,0 +1,96 @@
+air conditioner
+armchair
+bath
+bed
+blanket
+blinds
+bookcase
+broom
+brush
+bucket
+carpet
+ceiling
+chair
+chest of drawers
+clock
+coffee mill
+coffee table
+computer
+cooker
+cupboard
+curtain
+curtains
+cushion
+desk
+dishwasher
+door
+doorbell
+double bed
+drinks cabinet
+dustbin
+electric fire
+electric heater
+fireplace
+floor
+folding-bed
+fridge
+fuse box
+gas meter
+gas stove
+hairdryer
+houseplants
+humidifier
+iron
+ironing board
+kitchen unit
+laminated flooring
+lamp
+lampshade
+light switch
+lightbulb
+loudspeakers
+microwave oven
+mirror
+mop
+oven
+piano
+picture
+pillow
+pillowcase
+pipe
+plastic window
+player
+plug
+poster
+radiator
+radio
+record player
+renovation
+rug
+scales
+sheet
+sideboard
+single bed
+smartphone
+socket
+sofa
+sofa-bed
+stereo
+stool
+table
+tablecloth
+tablet computer
+tap
+tape recorder
+television
+TV
+vacuum cleaner
+vase
+Venetian blind
+wall
+wall unit
+wallpaper
+wardrobe
+washing machine
+water meter
+window

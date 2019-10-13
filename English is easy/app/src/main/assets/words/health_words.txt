@@ -1,0 +1,313 @@
+abscess
+acne
+acupuncture
+acute respiratory disease
+aids
+ailment
+alcoholic
+alcoholism
+allergy
+ambulance
+amnesia
+anaesthesia
+angina
+appendicitis
+arm
+arthritis
+asthma
+attack
+back
+backache
+bandage
+bandaging
+be ill
+bleeding
+blind
+blindness
+blood
+body
+bone
+brain
+brain concussion
+breast
+breathe
+broken
+bronchitis
+bruise
+burn
+callus
+cancer
+caough
+cataract
+catch
+catch a cold
+cheek
+chest pain
+chicken pox
+chin
+cholera
+chronic
+clinic
+cold
+comfort
+complaints
+compress
+conjunctivitis
+constipation
+contagious
+cough
+cramp
+crutch
+cupping glassed
+curable 
+cure
+custard plaster
+cut
+cut oneself
+deaf
+dehydration
+dentist
+depression
+dermatologist
+diabetes
+diagnosis
+diarrhea
+die
+diphtheria
+disabled
+disease
+diseases
+dislocation
+doctor
+dose
+drip
+drug addict
+drug addiction
+dysentery
+dyslexia
+ear
+ear nose and throat specialist
+earache
+eating disorder
+eczema
+elbow
+encephalitis
+endocrinologist
+epidemic
+epilepsy
+Escherichia coli
+examination
+examine
+eye
+eye-lenses
+eyebrow
+eyelash
+face
+faint
+faint
+fall ill
+fatal
+fatigue
+feel
+festering
+fever
+finger
+first-aid post
+fit
+flu
+food poisoning
+foot
+forehead
+fracture
+frostbite
+fungus
+gastric ulcer
+gastritis
+gastroenterologist
+general practitioner
+get ill
+get well
+giddiness
+glasses
+glaucoma
+gout
+groin
+gynaecologist
+haemophilia
+haemorrhoids
+hair
+hair loss
+harmful
+have a rest
+hay fever
+head
+headache
+heal
+health
+health care
+healthy
+heart
+heart attack
+heart attack
+heart disease
+heartburn
+heat stroke
+heel
+hepatitis
+hernia
+herpes
+hip
+hospital
+hypothermia
+ill
+illness
+incurable 
+indigestion
+infect
+infection
+infectious
+inflammation
+injection
+injury
+insomnia
+iodine
+jaundice
+jaw
+kidney
+leg
+leukemia
+lip
+liver
+long-sightedness
+lower back pain
+lung
+lung cancer
+malaria
+massage
+maternity hospital
+measles
+medicine
+medicine
+meningitis
+migraine
+military hospital
+miscarriage
+mixture
+mountain sickness
+moustache
+mouth
+mumps
+nail
+nausea
+neck
+nervous fit
+neuralgia
+neurologist
+nose
+nurse
+obesity
+ointment
+oncologist
+operation
+ophthalmologist
+paediatrician
+pain
+pale
+paralysis
+patient
+peritonitis
+perspite
+pharmacy
+pill
+plague
+plaster
+pmeumonia
+pneumonia
+poison
+polio
+pregnant
+presciption
+prescribe
+prescription
+psychotherapist
+pulse
+quinsy
+rabies
+rash
+recommendations
+recover
+rehabilitation
+remedy
+rheumatism
+running nose
+runny nose
+scabies
+scar
+scarlet fever
+schizophrenia
+sclerosis
+scratch
+senile dementia
+short-sightedness
+shoulder
+sick leave
+sick-leave certificate
+side-effect
+sinusitis
+skeleton
+skin
+skull
+sleeping pill
+sling
+smoke
+sneeze
+sore throat
+spine
+splinter
+spot
+sprain
+start to cry
+stomach
+stomachache
+stop smoking
+stress
+stroke
+suffer
+sunburn
+sunstroke
+surgeon
+surgery
+suture
+sweat
+swelling
+symptoms
+syringe
+take medicine
+temple
+test
+tetanus
+thermometer
+throat
+thumb
+toe
+tongue
+tooth
+toxoplasmosis
+trauma
+treatment
+tuberculosis
+tumor
+tumour
+typhoid fever
+ulcer
+undergo treatment
+urologist
+virus
+vomiting
+waist
+wart
+weak
+whooping cough
+wound
+wrist
+X-ray

@@ -1,0 +1,81 @@
+accordion
+accordionist
+album
+anthem
+bagpipe
+balalaika
+ballet
+band
+bass
+basson
+baton
+bayan
+bayan player
+bow
+brass group
+cello
+chamber music
+choir
+clarinet
+classical music
+composer
+concert
+concertina
+concertina player
+conductor
+cymbals
+disk
+drum
+drum sticks
+flute
+grand piano
+group
+guitar
+guitarist
+harp
+hit
+horn
+humorous folk songs
+hymn
+loudspeaker
+microphone
+motif
+music
+musical
+musician
+oboe
+opera
+orchestra
+organ
+pianist
+piano
+pop music
+recital
+record
+rock music
+rock musician
+romance
+saxophone
+score
+sheet music
+sing
+singer
+single
+soloist
+song
+sound
+string group
+symphony
+synthesizer
+to accompany
+to compose
+to transcribe
+trombone
+trumpet
+trumpeter
+tuba
+tune
+video
+viola
+violin
+violinist

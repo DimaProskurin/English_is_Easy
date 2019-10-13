@@ -1,0 +1,17 @@
+Black
+White
+Yellow
+Red
+Blue
+Green
+Brown
+Pink
+Orange
+Purple
+Cyan
+Cream
+Gold
+Chocolate
+Lime
+Emerald
+Grey

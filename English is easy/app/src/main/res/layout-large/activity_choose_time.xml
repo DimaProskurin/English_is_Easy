@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.englishiseasy.ChooseTime"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background1">
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/greeting_inChooseTime"
+        android:textSize="50sp"
+        android:textColor="#000"
+        android:id="@+id/greeting_inChooseTime"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/past_inChooseTime"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:textColor="#000"
+        android:id="@+id/past_time"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/greeting_inChooseTime"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"
+        android:background="@drawable/tv_frame3"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/present_inChooseTime"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:textColor="#000"
+        android:id="@+id/present_time"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/past_time"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"
+        android:background="@drawable/tv_frame3"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/future_inChooseTime"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:textColor="#000"
+        android:id="@+id/future_time"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/present_time"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"
+        android:background="@drawable/tv_frame3"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/all_inChooseTime"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:textColor="#000"
+        android:id="@+id/all_times"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/future_time"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"
+        android:background="@drawable/tv_frame3"/>
+
+</RelativeLayout>

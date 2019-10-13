@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Practical_work_tenses3lvl"
+    android:background="@drawable/background1">
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/points"
+        android:textColor="#000"
+        android:id="@+id/points_tv"
+        android:textSize="30sp"
+        android:layout_marginStart="450dp"
+        android:layout_marginLeft="450dp"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/points"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/time"
+        android:textColor="#000"
+        android:id="@+id/time_tv"
+        android:textSize="30sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/time"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:layout_toRightOf="@+id/time_tv"
+        android:layout_toEndOf="@+id/time_tv"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:src="@drawable/green"
+        android:id="@+id/imageView_RightAnswear"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:src="@drawable/red"
+        android:id="@+id/imageView_WrongAnswear"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:text="@string/ok"
+        android:id="@+id/tv_go"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="35sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv_delete"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:text="@string/arrow"
+        android:id="@+id/tv_delete"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="35sp"
+        android:layout_above="@+id/tv16"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:id="@+id/tv_word"
+        android:layout_below="@+id/imageView_RightAnswear"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        foo:customFont="fonts/Baron.ttf"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv16"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv12"
+        android:layout_toEndOf="@+id/tv15"
+        android:layout_toRightOf="@+id/tv15" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv15"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv11"
+        android:layout_toEndOf="@+id/tv14"
+        android:layout_toRightOf="@+id/tv14" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv14"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv10"
+        android:layout_toEndOf="@+id/tv13"
+        android:layout_toRightOf="@+id/tv13" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv13"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv9"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv12"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv8"
+        android:layout_toEndOf="@+id/tv11"
+        android:layout_toRightOf="@+id/tv11" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv11"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv7"
+        android:layout_toEndOf="@+id/tv10"
+        android:layout_toRightOf="@+id/tv10" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv10"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv6"
+        android:layout_toEndOf="@+id/tv9"
+        android:layout_toRightOf="@+id/tv9" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv9"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv5"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv8"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv4"
+        android:layout_toEndOf="@+id/tv7"
+        android:layout_toRightOf="@+id/tv7"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv7"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv3"
+        android:layout_toEndOf="@+id/tv6"
+        android:layout_toRightOf="@+id/tv6" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv6"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv2"
+        android:layout_toEndOf="@+id/tv5"
+        android:layout_toRightOf="@+id/tv5"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv5"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_above="@+id/tv1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv1"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/tv2"
+        android:layout_toStartOf="@+id/tv2"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv2"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/tv3"
+        android:layout_toStartOf="@+id/tv3" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv3"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/tv4"
+        android:layout_toStartOf="@+id/tv4"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:text="@string/space"
+        android:id="@+id/tv4"
+        android:background="@drawable/tv_frame2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text1"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/tv_word"
+        android:layout_marginTop="45dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text2"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/tv_word"
+        android:layout_marginTop="45dp"
+        android:layout_toRightOf="@+id/text1"
+        android:layout_toEndOf="@+id/text1"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text3"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/tv_word"
+        android:layout_marginTop="45dp"
+        android:layout_toRightOf="@+id/text2"
+        android:layout_toEndOf="@+id/text2"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text4"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/tv_word"
+        android:layout_marginTop="45dp"
+        android:layout_toRightOf="@+id/text3"
+        android:layout_toEndOf="@+id/text3"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text5"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/tv_word"
+        android:layout_marginTop="45dp"
+        android:layout_toRightOf="@+id/text4"
+        android:layout_toEndOf="@+id/text4"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text6"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/tv_word"
+        android:layout_marginTop="45dp"
+        android:layout_toRightOf="@+id/text5"
+        android:layout_toEndOf="@+id/text5"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text7"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text1"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text8"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text2"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text7"
+        android:layout_toEndOf="@+id/text7"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text9"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text3"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text8"
+        android:layout_toEndOf="@+id/text8"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text10"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text4"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text9"
+        android:layout_toEndOf="@+id/text9"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text11"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text5"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text10"
+        android:layout_toEndOf="@+id/text10"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text12"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text6"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text11"
+        android:layout_toEndOf="@+id/text11"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text13"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text7"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text14"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text8"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text13"
+        android:layout_toEndOf="@+id/text13"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text15"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text9"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text14"
+        android:layout_toEndOf="@+id/text14"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/space"
+        android:id="@+id/text16"
+        android:textSize="25sp"
+        android:textColor="#000"
+        foo:customFont="fonts/Baron.ttf"
+        android:layout_below="@+id/text10"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/text15"
+        android:layout_toEndOf="@+id/text15"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"/>
+
+</RelativeLayout>

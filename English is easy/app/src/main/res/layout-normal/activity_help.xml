@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Help"
+    android:background="@drawable/background1">
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/author_inHelp"
+        android:id="@+id/author"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35sp"
+        android:textColor="#000"
+        android:textSize="35sp"
+        foo:customFont="fonts/Baron.ttf" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/authorName_inHelp"
+        android:id="@+id/author_name"
+        android:layout_marginTop="15sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/author"
+        android:textColor="#000"
+        android:textSize="40sp"
+        foo:customFont="fonts/Baron.ttf" />
+
+    <com.example.englishiseasy.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contacts_inHelp"
+        android:layout_below="@+id/author_name"
+        android:id="@+id/contacts"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginStart="20sp"
+        android:textColor="#000"
+        android:textSize="35sp"
+        foo:customFont="fonts/Baron.ttf" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mail_inHelp"
+        android:layout_below="@+id/contacts"
+        android:id="@+id/mail"
+        android:layout_marginTop="30sp"
+        android:layout_marginLeft="40sp"
+        android:layout_marginStart="40sp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/skype_inHelp"
+        android:layout_below="@+id/mail"
+        android:id="@+id/skype"
+        android:layout_marginTop="30sp"
+        android:layout_marginLeft="40sp"
+        android:layout_marginStart="40sp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+</RelativeLayout>
